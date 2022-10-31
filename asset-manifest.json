@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/ShoppingCartWebsite/static/css/main.4198d38a.css",
+    "main.js": "/ShoppingCartWebsite/static/js/main.9ab5be4d.js",
+    "static/js/787.f2cec690.chunk.js": "/ShoppingCartWebsite/static/js/787.f2cec690.chunk.js",
+    "static/media/honeydew.jpg": "/ShoppingCartWebsite/static/media/honeydew.1eb3d1d0a7f046009fe5.jpg",
+    "static/media/coconut.jpg": "/ShoppingCartWebsite/static/media/coconut.8229607fc3fbc8eb7548.jpg",
+    "static/media/mango.jpg": "/ShoppingCartWebsite/static/media/mango.ce4762c9df5f5a14fa96.jpg",
+    "static/media/fruit.jpg": "/ShoppingCartWebsite/static/media/fruit.ce5b189b8732dcadcba9.jpg",
+    "static/media/pom.jpg": "/ShoppingCartWebsite/static/media/pom.6f986a2442ffe0e448c6.jpg",
+    "static/media/lychee.jpg": "/ShoppingCartWebsite/static/media/lychee.b4caf4de42e57520c67b.jpg",
+    "static/media/pineapple.jpg": "/ShoppingCartWebsite/static/media/pineapple.9d8c4343e366c60b906e.jpg",
+    "static/media/blueberry.jpeg": "/ShoppingCartWebsite/static/media/blueberry.b5e1ca9c19b011a457fd.jpeg",
+    "static/media/leaf.webp": "/ShoppingCartWebsite/static/media/leaf.2b6eeda3e61172f74c91.webp",
+    "static/media/leaf.jpeg": "/ShoppingCartWebsite/static/media/leaf.f8c16fa44170639c1841.jpeg",
+    "static/media/RobotoCondensed-Bold.ttf": "/ShoppingCartWebsite/static/media/RobotoCondensed-Bold.c5fe6deebafaec078e64.ttf",
+    "static/media/kiwi.jpg": "/ShoppingCartWebsite/static/media/kiwi.5910e59086d126f5d49a.jpg",
+    "static/media/logo.svg": "/ShoppingCartWebsite/static/media/logo.6ce24c58023cc2f8fd88.svg",
+    "index.html": "/ShoppingCartWebsite/index.html",
+    "main.4198d38a.css.map": "/ShoppingCartWebsite/static/css/main.4198d38a.css.map",
+    "main.9ab5be4d.js.map": "/ShoppingCartWebsite/static/js/main.9ab5be4d.js.map",
+    "787.f2cec690.chunk.js.map": "/ShoppingCartWebsite/static/js/787.f2cec690.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4198d38a.css",
+    "static/js/main.9ab5be4d.js"
+  ]
+}
