@@ -1,0 +1,56 @@
+.about {
+    height: 100vh;
+    flex: 1;
+    background-size: cover;
+
+    display: flex;
+    flex-direction: row-reverse;
+}
+
+
+.textholder {
+   
+    padding: 1%;
+    background-color: black;
+    width: 60%;
+    opacity: 0.75;
+
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: space-evenly;
+
+}
+
+.textholder > *{
+    color: white;
+}
+
+.title{
+    font-size: 3.5rem;
+}
+
+.text{
+    font-size: 1.5rem;
+}
+
+.wrapper{
+    width: 50%;
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 5%;
+}
+
+
+.shopbtn {
+    
+    color: black;
+    background-color: white;
+    border: none;
+}
+
+
+.shopbtn:hover{
+    color: white;
+    background-color: black;
+}

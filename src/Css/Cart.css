@@ -1,0 +1,83 @@
+.cart{
+    height: 78vh;
+    
+    background-color: grey;
+    background-image: url('../images/leaf.webp');
+    background-size: cover;
+    display: flex;
+    flex-direction: column;
+    margin: 0;
+    padding: 1%;
+    gap:2%;
+    align-items:center ;
+    overflow-y: scroll
+}
+
+
+.cart > .container{
+    background-color: rgb(255, 255, 255);
+    opacity: 0.75;
+    width: 100%;
+    flex-shrink: 0;
+    padding: 1%;
+    margin: 0;
+    display: flex;
+    gap: 40%;
+    flex-direction: row;
+    align-items: center;
+}
+
+.cart > .container > img {
+    margin: 0;
+    max-width: 12vw;
+    max-height: 16vh;
+
+}
+
+.right{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 10%;
+}
+
+
+.left{
+    display: flex;
+    flex-direction: row;
+
+
+}
+
+.left > div{
+    padding: 7%;
+}
+
+.cart > .container > .right > .caption {
+    margin-right: 10px;
+}
+
+
+#total{
+    background-color: rgb(27, 27, 26);
+    color: white;
+    height: 8vh;
+    width: 100vw;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 0.25rem;
+    gap: 5rem;
+    font-size: 2rem;
+
+    justify-self: flex-end;
+}
+
+
+#container{
+    flex: 1;
+
+    display: flex;
+    flex-direction: column;
+    
+}

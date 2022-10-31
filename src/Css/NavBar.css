@@ -1,0 +1,38 @@
+@font-face {
+    font-family: Roboto;
+    src: url(RobotoCondensed-Bold.ttf);
+}
+
+*{
+    font-family: Roboto;
+}
+
+
+.navbar{
+    background-color: rgb(27, 27, 26);
+    color: white;
+    height: 8vh;
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    padding-bottom: 0.25rem;
+    gap: 5rem;
+}
+
+
+.nav{
+    background-color: rgb(27, 27, 26);
+    height: 50%;
+    border: none;
+    margin: none;
+    color: white;
+    font-size: 1.5rem;
+    transition: 100ms;
+}
+
+
+.nav:hover{
+    text-decoration-line: underline ;
+    text-decoration-color: white;
+}
